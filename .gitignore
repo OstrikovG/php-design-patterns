@@ -1,0 +1,10 @@
+###> MacBook ###
+.DS_Store
+###> MacBook ###
+
+###> IDE ###
+.idea/
+###> IDE ###
+
+vendor/
+composer.lock
