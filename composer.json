@@ -1,0 +1,13 @@
+{
+    "name": "glebostrikov/php-design-patterns",
+    "type": "project",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OstrikovG",
+            "email": "ostgleal@gmail.com"
+        }
+    ]
+}
