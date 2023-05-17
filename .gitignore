@@ -4,9 +4,10 @@
 
 ###> IDE ###
 .idea/
+.vscode/
 ###> IDE ###
 
 vendor/
-composer.lock
+
 Real World Examples/behavioral-patterns/commands.sqlite
 Real World Examples/behavioral-patterns/log.txt
